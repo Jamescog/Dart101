@@ -24,6 +24,12 @@ If you're new to Dart, here are some resources to get you started:
 
 I'll keep updating this section with my progress as I learn Dart. Check back here to see what I've learned and accomplished.
 
+    - [x] Introduction to Dart. (completed)
+    - [ ] Variables
+    - [ ] Control Flow Statements
+    - [ ] Functions
+    - [ ] Imports
+    - [ ] Classes
 ## Contributing
 
 If you're also learning Dart and want to collaborate, feel free to fork this repository and submit pull requests with your own notes, code samples, or improvements to existing content. Let's learn Dart together!
